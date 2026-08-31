@@ -1,0 +1,73 @@
+about:
+  description: An open-source C++ library developed and used at Facebook.
+  license: Apache-2.0
+  homepage: 
+  head: 23ebefd
+  archived: false
+  latestVersion: v2026.08.24.00
+  collectedAt: 2026-08-31T05:34:30Z
+timeline:
+  created: 2012-06-01
+  lastCommit: 2026-08-30
+  lastRelease: 2026-08-24
+popularity:
+  star: 30523
+  watcher: 994
+  fork: 5870
+  release: 304
+  contributor: 984
+  pullRequest: 1312
+  issue: 1265
+language:
+  C++: 21688386
+  Starlark: 800788
+  Python: 758306
+  CMake: 503048
+  Rust: 211837
+  C: 95757
+  Cython: 72596
+  Shell: 20632
+  Assembly: 15656
+  Jinja: 4921
+  Ruby: 2882
+  GDB: 2668
+  Batchfile: 989
+  Makefile: 804
+  CSS: 786
+  Linker Script: 773
+  Dockerfile: 227
+  Verilog: 92
+totalLine: 24181148
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 3
+    mergedPR: 0
+    openPR: 6
+    closedIssue: 0
+    openIssue: 5
+    commit: 169
+  last90d:
+    since: 2026-06-02
+    release: 11
+    mergedPR: 0
+    openPR: 13
+    closedIssue: 1
+    openIssue: 10
+    commit: 377
+  last180d:
+    since: 2026-03-04
+    release: 24
+    mergedPR: 0
+    openPR: 27
+    closedIssue: 2
+    openIssue: 16
+    commit: 973
+  last360d:
+    since: 2025-09-05
+    release: 48
+    mergedPR: 0
+    openPR: 48
+    closedIssue: 7
+    openIssue: 31
+    commit: 1900
