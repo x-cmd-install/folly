@@ -4,10 +4,10 @@ about:
     An open-source C++ library developed and used at Facebook.
   license: Apache-2.0
   homepage: 
-  head: dea9962
+  head: 801f38c
   archived: false
   latestVersion: v2026.08.31.00
-  collectedAt: 2026-09-04T19:34:22Z
+  collectedAt: 2026-09-04T20:58:10Z
 timeline:
   created: 2012-06-01
   lastCommit: 2026-09-04
@@ -21,10 +21,10 @@ popularity:
   pullRequest: 1325
   issue: 1265
 language:
-  C++: 21777911
-  Starlark: 803120
+  C++: 21797211
+  Starlark: 803854
   Python: 758306
-  CMake: 503099
+  CMake: 503316
   Rust: 213254
   C: 96580
   Cython: 72596
@@ -39,7 +39,7 @@ language:
   Linker Script: 773
   Dockerfile: 227
   Verilog: 92
-totalBytes: 24275296
+totalBytes: 24295547
 recent:
   last30d:
     since: 2026-08-05
@@ -48,7 +48,7 @@ recent:
     openPR: 6
     closedIssue: 0
     openIssue: 5
-    commit: 208
+    commit: 214
   last60d:
     since: 2026-07-06
     release: 8
@@ -56,7 +56,7 @@ recent:
     openPR: 9
     closedIssue: 1
     openIssue: 7
-    commit: 317
+    commit: 323
   last90d:
     since: 2026-06-06
     release: 12
@@ -64,7 +64,7 @@ recent:
     openPR: 13
     closedIssue: 1
     openIssue: 9
-    commit: 416
+    commit: 422
   last180d:
     since: 2026-03-08
     release: 25
@@ -72,7 +72,7 @@ recent:
     openPR: 26
     closedIssue: 2
     openIssue: 16
-    commit: 1012
+    commit: 1018
   last360d:
     since: 2025-09-09
     release: 48
@@ -80,7 +80,7 @@ recent:
     openPR: 48
     closedIssue: 7
     openIssue: 31
-    commit: 1939
+    commit: 1945
   last720d:
     since: 2024-09-14
     release: 100
@@ -88,15 +88,133 @@ recent:
     openPR: 79
     closedIssue: 38
     openIssue: 93
-    commit: 4112
+    commit: 4118
 total:
   release: 305
   mergedPR: 13
   openPR: 144
   closedIssue: 944
   openIssue: 321
-  commit: 17435
+  commit: 17441
 ---
+path: /home/runner/.x-repo/github.com/facebook/folly
+collectedAt: 2026-09-04T20:58:14Z
+loc:
+  Cpp:
+    code: 311303
+    comments: 47909
+    blanks: 53971
+    files: 1238
+  CHeader:
+    code: 164176
+    comments: 87290
+    blanks: 35866
+    files: 1103
+  Python:
+    code: 16819
+    comments: 1769
+    blanks: 2790
+    files: 58
+  CMake:
+    code: 14525
+    comments: 2892
+    blanks: 1607
+    files: 137
+  Rust:
+    code: 4790
+    comments: 524
+    blanks: 1011
+    files: 25
+  Cython:
+    code: 1264
+    comments: 458
+    blanks: 345
+    files: 30
+  AssemblyGAS:
+    code: 1017
+    comments: 246
+    blanks: 187
+    files: 10
+  Yaml:
+    code: 589
+    comments: 30
+    blanks: 97
+    files: 6
+  Sh:
+    code: 376
+    comments: 139
+    blanks: 82
+    files: 8
+  Jinja2:
+    code: 152
+    comments: 0
+    blanks: 23
+    files: 1
+  Ruby:
+    code: 72
+    comments: 27
+    blanks: 13
+    files: 1
+  Bash:
+    code: 69
+    comments: 23
+    blanks: 6
+    files: 1
+  C:
+    code: 49
+    comments: 40
+    blanks: 13
+    files: 1
+  GDB:
+    code: 38
+    comments: 52
+    blanks: 27
+    files: 1
+  Autoconf:
+    code: 36
+    comments: 15
+    blanks: 11
+    files: 2
+  Batch:
+    code: 24
+    comments: 0
+    blanks: 2
+    files: 1
+  LinkerScript:
+    code: 12
+    comments: 12
+    blanks: 0
+    files: 2
+  Css:
+    code: 7
+    comments: 15
+    blanks: 1
+    files: 1
+  Coq:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Svg:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 11914
+    blanks: 3375
+    files: 104
+  Text:
+    code: 0
+    comments: 114
+    blanks: 18
+    files: 1
+total:
+  code: 515554
+  comments: 153810
+  blanks: 99524
+  files: 2734
 ---
 date: "2026-08-24"
 repo:
