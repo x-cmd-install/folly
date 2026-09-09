@@ -2,12 +2,12 @@ about:
   description: "An open-source C++ library developed and used at Facebook."
   license: Apache-2.0
   homepage: 
-  head: 6d9d3d6
+  head: 2241100
   archived: false
   latestVersion: "v2026.09.07.00"
   latestRelease: "v2026.09.07.00"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:16:46Z
+  collectedAt: 2026-09-09T19:28:23Z
 timeline:
   created: 2012-06-01
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 
 popularity:
-  star: 30532
+  star: 30534
   watcher: 995
   fork: 5874
   release: 306
@@ -23,7 +23,7 @@ popularity:
   pullRequest: 1330
   issue: 1268
 language:
-  C++: 21847557
+  C++: 21847317
   Starlark: 804336
   Python: 803078
   CMake: 503316
@@ -41,7 +41,7 @@ language:
   Linker Script: 773
   Dockerfile: 227
   Verilog: 92
-totalBytes: 24391147
+totalBytes: 24390907
 recent:
   last30d:
     since: 2026-08-10
@@ -50,7 +50,7 @@ recent:
     openPR: 9
     closedIssue: 0
     openIssue: 7
-    commit: 166
+    commit: 174
   last60d:
     since: 2026-07-11
     release: 8
@@ -58,7 +58,7 @@ recent:
     openPR: 12
     closedIssue: 1
     openIssue: 9
-    commit: 314
+    commit: 322
   last90d:
     since: 2026-06-11
     release: 12
@@ -66,7 +66,7 @@ recent:
     openPR: 16
     closedIssue: 1
     openIssue: 12
-    commit: 393
+    commit: 401
   last180d:
     since: 2026-03-13
     release: 25
@@ -74,7 +74,7 @@ recent:
     openPR: 30
     closedIssue: 1
     openIssue: 18
-    commit: 987
+    commit: 995
   last360d:
     since: 2025-09-14
     release: 49
@@ -82,7 +82,7 @@ recent:
     openPR: 52
     closedIssue: 7
     openIssue: 32
-    commit: 1934
+    commit: 1942
   last720d:
     since: 2024-09-19
     release: 100
@@ -90,20 +90,20 @@ recent:
     openPR: 83
     closedIssue: 38
     openIssue: 94
-    commit: 4112
+    commit: 4120
 total:
   release: 306
   mergedPR: 13
   openPR: 148
   closedIssue: 944
   openIssue: 324
-  commit: 17463
+  commit: 17471
 ---
 path: /home/runner/.x-repo/github.com/facebook/folly
-collectedAt: 2026-09-09T05:16:56Z
+collectedAt: 2026-09-09T19:28:43Z
 loc:
   Cpp:
-    code: 311953
+    code: 311947
     comments: 47957
     blanks: 54084
     files: 1237
@@ -209,19 +209,19 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 13063
-    blanks: 3707
-    files: 123
+    comments: 13363
+    blanks: 3792
+    files: 130
   Text:
     code: 0
     comments: 2369
     blanks: 379
     files: 9
 total:
-  code: 517715
-  comments: 157476
-  blanks: 100544
-  files: 2764
+  code: 517709
+  comments: 157776
+  blanks: 100629
+  files: 2771
 ---
 date: "2026-09-07"
 repo:
