@@ -2,12 +2,12 @@ about:
   description: "An open-source C++ library developed and used at Facebook."
   license: Apache-2.0
   homepage: 
-  head: 2c66610
+  head: 51cb33a
   archived: false
   latestVersion: "v2026.09.07.00"
   latestRelease: "v2026.09.07.00"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:27:13Z
+  collectedAt: 2026-09-10T20:40:06Z
 timeline:
   created: 2012-06-01
   lastCommit: 2026-09-10
@@ -15,15 +15,15 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 
 popularity:
-  star: 30534
+  star: 30535
   watcher: 995
-  fork: 5875
+  fork: 5876
   release: 306
   contributor: 965
   pullRequest: 1330
   issue: 1268
 language:
-  C++: 21862781
+  C++: 21873129
   Python: 813583
   Starlark: 804851
   CMake: 503316
@@ -41,7 +41,7 @@ language:
   Linker Script: 773
   Dockerfile: 227
   Verilog: 92
-totalBytes: 24417391
+totalBytes: 24427739
 recent:
   last30d:
     since: 2026-08-11
@@ -50,7 +50,7 @@ recent:
     openPR: 9
     closedIssue: 0
     openIssue: 7
-    commit: 195
+    commit: 197
   last60d:
     since: 2026-07-12
     release: 8
@@ -58,7 +58,7 @@ recent:
     openPR: 12
     closedIssue: 1
     openIssue: 9
-    commit: 343
+    commit: 345
   last90d:
     since: 2026-06-12
     release: 12
@@ -66,7 +66,7 @@ recent:
     openPR: 16
     closedIssue: 1
     openIssue: 12
-    commit: 422
+    commit: 424
   last180d:
     since: 2026-03-14
     release: 25
@@ -74,7 +74,7 @@ recent:
     openPR: 30
     closedIssue: 1
     openIssue: 18
-    commit: 1016
+    commit: 1018
   last360d:
     since: 2025-09-15
     release: 49
@@ -82,7 +82,7 @@ recent:
     openPR: 52
     closedIssue: 6
     openIssue: 32
-    commit: 1963
+    commit: 1965
   last720d:
     since: 2024-09-20
     release: 100
@@ -90,27 +90,27 @@ recent:
     openPR: 83
     closedIssue: 37
     openIssue: 94
-    commit: 4139
+    commit: 4141
 total:
   release: 306
   mergedPR: 13
   openPR: 148
   closedIssue: 944
   openIssue: 324
-  commit: 17492
+  commit: 17494
 ---
 path: /home/runner/.x-repo/github.com/facebook/folly
-collectedAt: 2026-09-10T05:27:22Z
+collectedAt: 2026-09-10T20:40:27Z
 loc:
   Cpp:
-    code: 312186
-    comments: 48079
-    blanks: 54128
+    code: 312354
+    comments: 48104
+    blanks: 54166
     files: 1238
   CHeader:
-    code: 164531
-    comments: 87453
-    blanks: 35922
+    code: 164538
+    comments: 87475
+    blanks: 35924
     files: 1103
   Python:
     code: 18161
@@ -218,9 +218,9 @@ loc:
     blanks: 379
     files: 9
 total:
-  code: 518210
-  comments: 158230
-  blanks: 100805
+  code: 518385
+  comments: 158277
+  blanks: 100845
   files: 2778
 ---
 date: "2026-09-07"
@@ -371,4 +371,4 @@ checks:
       - 'Warn: One or no descriptive hints of disclosure, vulnerability, and/or timelines in security policy'
       - 'Info: Found text in security policy: github.com/facebook/.github/SECURITY.md:1'
 ---
-{"id":384171236,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAEUIlc4W5fzk","tag_name":"v2026.09.07.00","target_commitish":"65749da412d92fe27d87ae45a8ef670720712858","name":"v2026.09.07.00","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-05T04:09:40Z","updated_at":"2026-09-07T15:06:56Z","published_at":"2026-09-07T15:06:54Z","assets":[{"id":548963818,"node_id":"RA_kwDOAEUIlc4guIXq","name":"folly-v2026.09.07.00.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":5375155,"digest":"sha256:f114713009738faa49961aeaa050592a09a4c8a7b46ba9a0780d4aaba468173b","download_count":25,"created_at":"2026-09-07T15:06:56Z","updated_at":"2026-09-07T15:06:56Z"},{"id":548963789,"node_id":"RA_kwDOAEUIlc4guIXN","name":"folly-v2026.09.07.00.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":7431580,"digest":"sha256:48fdea3f80dc306f7bb5efe18ca2b020f21acbf3e588a7195c9345a55cfdaa10","download_count":6,"created_at":"2026-09-07T15:06:54Z","updated_at":"2026-09-07T15:06:55Z"}],"body":"Automated release from TagIt\n<details>\n  <summary>File Hashes</summary>\n  <ul>\n    <li>SHA2-256(folly-v2026.09.07.00.zip)= 48fdea3f80dc306f7bb5efe18ca2b020f21acbf3e588a7195c9345a55cfdaa10</li>\n    <li>SHA2-512(folly-v2026.09.07.00.zip)= ae5d3e4c6c0240cb7e55183da6784ff07a1b7422433021c68f67a66f071f7ee74906fe808281b6b473cd30a6fc0fe38d1676274a8de8feda07eec0562ef56d16</li>\n    <li>SHA2-256(folly-v2026.09.07.00.tar.gz)= f114713009738faa49961aeaa050592a09a4c8a7b46ba9a0780d4aaba468173b</li>\n    <li>SHA2-512(folly-v2026.09.07.00.tar.gz)= a1f304095c2150e218c0333f2cbb7442d5845dc6b2b4d59e67860be02906337f0d0a47d64717e28875400fe10be2b2a7b20b8fcb9dbbaca9a62134961257183e</li>\n  </ul>\n</details>"}
+{"id":384171236,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAEUIlc4W5fzk","tag_name":"v2026.09.07.00","target_commitish":"65749da412d92fe27d87ae45a8ef670720712858","name":"v2026.09.07.00","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-05T04:09:40Z","updated_at":"2026-09-07T15:06:56Z","published_at":"2026-09-07T15:06:54Z","assets":[{"id":548963818,"node_id":"RA_kwDOAEUIlc4guIXq","name":"folly-v2026.09.07.00.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":5375155,"digest":"sha256:f114713009738faa49961aeaa050592a09a4c8a7b46ba9a0780d4aaba468173b","download_count":25,"created_at":"2026-09-07T15:06:56Z","updated_at":"2026-09-07T15:06:56Z"},{"id":548963789,"node_id":"RA_kwDOAEUIlc4guIXN","name":"folly-v2026.09.07.00.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":7431580,"digest":"sha256:48fdea3f80dc306f7bb5efe18ca2b020f21acbf3e588a7195c9345a55cfdaa10","download_count":8,"created_at":"2026-09-07T15:06:54Z","updated_at":"2026-09-07T15:06:55Z"}],"body":"Automated release from TagIt\n<details>\n  <summary>File Hashes</summary>\n  <ul>\n    <li>SHA2-256(folly-v2026.09.07.00.zip)= 48fdea3f80dc306f7bb5efe18ca2b020f21acbf3e588a7195c9345a55cfdaa10</li>\n    <li>SHA2-512(folly-v2026.09.07.00.zip)= ae5d3e4c6c0240cb7e55183da6784ff07a1b7422433021c68f67a66f071f7ee74906fe808281b6b473cd30a6fc0fe38d1676274a8de8feda07eec0562ef56d16</li>\n    <li>SHA2-256(folly-v2026.09.07.00.tar.gz)= f114713009738faa49961aeaa050592a09a4c8a7b46ba9a0780d4aaba468173b</li>\n    <li>SHA2-512(folly-v2026.09.07.00.tar.gz)= a1f304095c2150e218c0333f2cbb7442d5845dc6b2b4d59e67860be02906337f0d0a47d64717e28875400fe10be2b2a7b20b8fcb9dbbaca9a62134961257183e</li>\n  </ul>\n</details>"}
