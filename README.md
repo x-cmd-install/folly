@@ -14,12 +14,12 @@ x install folly
 
 ## Code insight
 
-Total: **518,150** lines of code across **2563** files in the top 5 languages.
+Total: **518,316** lines of code across **2563** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 312,354 | 48,104 | 54,166 | 1238 |
-| CHeader | 164,538 | 87,475 | 35,924 | 1103 |
+| Cpp | 312,449 | 48,104 | 54,179 | 1238 |
+| CHeader | 164,609 | 87,492 | 35,927 | 1103 |
 | Python | 18,161 | 1,796 | 2,961 | 60 |
 | CMake | 14,525 | 2,892 | 1,607 | 137 |
 | Rust | 4,790 | 524 | 1,011 | 25 |
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 306 · **Merged PRs**: 13 · **Open PRs**: 148 · **Closed issues**: 944 · **Open issues**: 324 · **Commits**: 17494
+- **Releases**: 306 · **Merged PRs**: 13 · **Open PRs**: 148 · **Closed issues**: 944 · **Open issues**: 324 · **Commits**: 17496
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 0 | 9 | 0 | 7 | 197 |
-| last60d | 2026-07-12 | 8 | 0 | 12 | 1 | 9 | 345 |
-| 90d | 2026-06-12 | 12 | 0 | 16 | 1 | 12 | 424 |
-| last180d | 2026-03-14 | 25 | 0 | 30 | 1 | 18 | 1018 |
-| 360d | 2025-09-15 | 49 | 0 | 52 | 6 | 32 | 1965 |
-| last720d | 2024-09-20 | 100 | 4 | 83 | 37 | 94 | 4141 |
+| 30d | 2026-08-11 | 3 | 0 | 9 | 0 | 7 | 199 |
+| last60d | 2026-07-12 | 8 | 0 | 12 | 1 | 9 | 347 |
+| 90d | 2026-06-12 | 12 | 0 | 16 | 1 | 12 | 426 |
+| last180d | 2026-03-14 | 25 | 0 | 30 | 1 | 18 | 1020 |
+| 360d | 2025-09-15 | 49 | 0 | 52 | 6 | 32 | 1967 |
+| last720d | 2024-09-20 | 100 | 4 | 83 | 37 | 94 | 4143 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for folly lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:40:50Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:04:45Z._
