@@ -14,14 +14,14 @@ x install folly
 
 ## Code insight
 
-Total: **520,535** lines of code across **2572** files in the top 5 languages.
+Total: **521,279** lines of code across **2575** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 312,709 | 48,121 | 54,231 | 1238 |
-| CHeader | 164,713 | 87,541 | 35,936 | 1103 |
-| Python | 19,772 | 1,932 | 3,217 | 69 |
-| CMake | 14,527 | 2,892 | 1,607 | 137 |
+| Cpp | 312,952 | 48,177 | 54,231 | 1237 |
+| CHeader | 164,520 | 87,572 | 35,886 | 1103 |
+| Python | 20,417 | 1,981 | 3,329 | 73 |
+| CMake | 14,576 | 2,913 | 1,609 | 137 |
 | Rust | 4,790 | 524 | 1,011 | 25 |
 
 ## OpenSSF Scorecard
@@ -41,35 +41,35 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2026.09.07.00` (2026-09-07)
-- **Last commit**: 2026-09-13
+- **Latest**: `v2026.09.14.00` (2026-09-14)
+- **Last commit**: 2026-09-15
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 30,536 · **Forks**: 5,879 · **Open issues**: 1,269 · **Contributors**: 965
+- **Stars**: 30,538 · **Forks**: 5,880 · **Open issues**: 1,270 · **Contributors**: 966
 
 ## Totals (cumulative)
 
-- **Releases**: 306 · **Merged PRs**: 13 · **Open PRs**: 151 · **Closed issues**: 944 · **Open issues**: 325 · **Commits**: 17529
+- **Releases**: 307 · **Merged PRs**: 13 · **Open PRs**: 152 · **Closed issues**: 944 · **Open issues**: 326 · **Commits**: 17564
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 3 | 0 | 10 | 0 | 6 | 191 |
-| last60d | 2026-07-16 | 7 | 0 | 15 | 0 | 9 | 347 |
-| 90d | 2026-06-16 | 11 | 0 | 18 | 1 | 11 | 442 |
-| last180d | 2026-03-18 | 24 | 0 | 33 | 1 | 19 | 987 |
-| 360d | 2025-09-19 | 48 | 0 | 53 | 6 | 32 | 1966 |
-| last720d | 2024-09-24 | 99 | 3 | 86 | 36 | 94 | 4164 |
+| 30d | 2026-08-16 | 4 | 0 | 11 | 0 | 7 | 223 |
+| last60d | 2026-07-17 | 8 | 0 | 16 | 0 | 10 | 379 |
+| 90d | 2026-06-17 | 12 | 0 | 19 | 1 | 12 | 474 |
+| last180d | 2026-03-19 | 25 | 0 | 34 | 1 | 20 | 1019 |
+| 360d | 2025-09-20 | 49 | 0 | 54 | 6 | 33 | 1998 |
+| last720d | 2024-09-25 | 100 | 3 | 87 | 36 | 95 | 4193 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [folly-v2026.09.07.00.tar.gz](https://github.com/facebook/folly/releases/download/v2026.09.07.00/folly-v2026.09.07.00.tar.gz) | 5.1 MiB | `native/unknown` |
-| [folly-v2026.09.07.00.zip](https://github.com/facebook/folly/releases/download/v2026.09.07.00/folly-v2026.09.07.00.zip) | 7.1 MiB | `other` |
+| [folly-v2026.09.14.00.tar.gz](https://github.com/facebook/folly/releases/download/v2026.09.14.00/folly-v2026.09.14.00.tar.gz) | 5.3 MiB | `native/unknown` |
+| [folly-v2026.09.14.00.zip](https://github.com/facebook/folly/releases/download/v2026.09.14.00/folly-v2026.09.14.00.zip) | 7.3 MiB | `other` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for folly lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:39:22Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:32:30Z._
