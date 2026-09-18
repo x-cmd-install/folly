@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5509867,
       "digest": "sha256:514238ac1a9572ddf202705edff3e816494a766b7d0d6f2a524aec4f32286749",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-09-14T15:06:15Z",
       "updated_at": "2026-09-14T15:06:16Z",
       "browser_download_url": "https://github.com/facebook/folly/releases/download/v2026.09.14.00/folly-v2026.09.14.00.tar.gz"
