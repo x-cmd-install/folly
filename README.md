@@ -4,7 +4,7 @@
 
 An open-source C++ library developed and used at Facebook.
 
-[![x-cmd/install — folly Code Quality Monitoring Repo Card](https://repo.x-cmd.io/folly.svg)](https://x-cmd.com/install/folly)
+[![x-cmd/install — folly Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/folly.svg)](https://x-cmd.com/install/folly)
 
 ## Install
 
@@ -14,19 +14,19 @@ x install folly
 
 ## Code insight
 
-Total: **523,654** lines of code across **2581** files in the top 5 languages.
+Total: **523,808** lines of code across **2581** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 313,861 | 48,298 | 54,381 | 1237 |
-| CHeader | 164,797 | 87,723 | 35,936 | 1102 |
-| Python | 21,273 | 2,081 | 3,464 | 77 |
-| CMake | 14,878 | 3,000 | 1,576 | 140 |
+| Cpp | 313,883 | 48,298 | 54,385 | 1237 |
+| CHeader | 164,822 | 87,730 | 35,944 | 1102 |
+| Python | 21,308 | 2,081 | 3,470 | 77 |
+| CMake | 14,950 | 3,006 | 1,584 | 140 |
 | Rust | 4,790 | 524 | 1,011 | 25 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5.1 / 10**
+Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2026.09.21.00` (2026-09-21)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 30,543 · **Forks**: 5,882 · **Open issues**: 1,273 · **Contributors**: 967
+- **Stars**: 30,543 · **Forks**: 5,881 · **Open issues**: 1,274 · **Contributors**: 967
 
 ## Totals (cumulative)
 
-- **Releases**: 308 · **Merged PRs**: 13 · **Open PRs**: 151 · **Closed issues**: 945 · **Open issues**: 328 · **Commits**: 17689
+- **Releases**: 308 · **Merged PRs**: 13 · **Open PRs**: 150 · **Closed issues**: 945 · **Open issues**: 329 · **Commits**: 17704
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 0 | 11 | 1 | 9 | 288 |
-| last60d | 2026-07-24 | 8 | 0 | 17 | 1 | 12 | 472 |
-| 90d | 2026-06-24 | 12 | 0 | 19 | 2 | 14 | 576 |
-| last180d | 2026-03-26 | 25 | 0 | 32 | 2 | 21 | 1077 |
-| 360d | 2025-09-27 | 49 | 0 | 55 | 7 | 35 | 2093 |
-| last720d | 2024-10-02 | 100 | 3 | 88 | 37 | 96 | 4272 |
+| 30d | 2026-08-24 | 5 | 0 | 11 | 1 | 10 | 301 |
+| last60d | 2026-07-25 | 8 | 0 | 17 | 1 | 13 | 485 |
+| 90d | 2026-06-25 | 12 | 0 | 19 | 2 | 15 | 589 |
+| last180d | 2026-03-27 | 25 | 0 | 31 | 2 | 22 | 1090 |
+| 360d | 2025-09-28 | 49 | 0 | 54 | 7 | 36 | 2106 |
+| last720d | 2024-10-03 | 100 | 3 | 87 | 37 | 97 | 4281 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for folly lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:45:27Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:37:04Z._
