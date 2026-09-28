@@ -14,11 +14,11 @@ x install folly
 
 ## Code insight
 
-Total: **523,978** lines of code across **2581** files in the top 5 languages.
+Total: **524,042** lines of code across **2581** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 314,038 | 48,306 | 54,411 | 1237 |
+| Cpp | 314,102 | 48,322 | 54,416 | 1237 |
 | CHeader | 164,853 | 87,751 | 35,943 | 1102 |
 | Python | 21,308 | 2,081 | 3,470 | 77 |
 | CMake | 14,970 | 3,020 | 1,587 | 140 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 30,548 · **Forks**: 5,880 · **Open issues**: 1,274 · **Contributors**: 967
+- **Stars**: 30,549 · **Forks**: 5,878 · **Open issues**: 1,274 · **Contributors**: 967
 
 ## Totals (cumulative)
 
-- **Releases**: 308 · **Merged PRs**: 13 · **Open PRs**: 152 · **Closed issues**: 945 · **Open issues**: 329 · **Commits**: 17731
+- **Releases**: 308 · **Merged PRs**: 13 · **Open PRs**: 152 · **Closed issues**: 945 · **Open issues**: 329 · **Commits**: 17732
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 4 | 0 | 12 | 1 | 8 | 270 |
-| last60d | 2026-07-29 | 7 | 0 | 17 | 1 | 13 | 489 |
-| 90d | 2026-06-29 | 12 | 0 | 20 | 2 | 15 | 594 |
-| last180d | 2026-03-31 | 24 | 0 | 31 | 2 | 22 | 1031 |
-| 360d | 2025-10-02 | 48 | 0 | 56 | 7 | 36 | 2082 |
-| last720d | 2024-10-07 | 100 | 3 | 89 | 37 | 96 | 4298 |
+| 30d | 2026-08-29 | 4 | 0 | 12 | 1 | 8 | 271 |
+| last60d | 2026-07-30 | 7 | 0 | 17 | 1 | 13 | 490 |
+| 90d | 2026-06-30 | 11 | 0 | 20 | 2 | 15 | 595 |
+| last180d | 2026-04-01 | 24 | 0 | 30 | 2 | 22 | 1032 |
+| 360d | 2025-10-03 | 48 | 0 | 56 | 7 | 36 | 2083 |
+| last720d | 2024-10-08 | 99 | 3 | 89 | 37 | 96 | 4293 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for folly lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:47:20Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:51:57Z._
