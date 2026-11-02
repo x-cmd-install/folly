@@ -256,6 +256,15 @@
   origversion: null
   status: rolling
   summary: Collection of reusable C++ library artifacts developed at Facebook
+- repo: xrepo
+  srcname: folly
+  visiblename: folly
+  version: 2021.08.02
+  origversion: null
+  status: legacy
+  summary: An open-source C++ library developed and used at Facebook.
+  licenses:
+    - Apache-2.0
 - repo: liguros_stable
   srcname: dev-cpp/folly
   visiblename: dev-cpp/folly
@@ -487,15 +496,6 @@
   origversion: null
   status: outdated
   summary: An open-source C++ library developed and used at Facebook. The library is UNSTABLE on Windows
-- repo: xrepo
-  srcname: folly
-  visiblename: folly
-  version: 2021.08.02
-  origversion: null
-  status: legacy
-  summary: An open-source C++ library developed and used at Facebook.
-  licenses:
-    - Apache-2.0
 - repo: xrepo
   srcname: folly
   visiblename: folly
