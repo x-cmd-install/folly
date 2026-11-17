@@ -24,16 +24,6 @@ x install folly
 | CMake | 15,888 | 3,172 | 1,615 | 138 |
 | Rust | 4,851 | 524 | 1,015 | 25 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **6.1 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **SAST** (0/10) — no SAST tool detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/facebook/folly>
@@ -47,22 +37,22 @@ x install folly
 
 ## 流行度
 
-- **Star**: 30,561 · **Fork**: 5,884 · **开放 issue**: 1,284 · **贡献者**: 982
+- **Star**: 30,561 · **Fork**: 5,886 · **开放 issue**: 1,284 · **贡献者**: 982
 
 ## 累计统计
 
-- **发布数**: 313 · **已合并 PR**: 16 · **开放 PR**: 158 · **已关闭 issue**: 947 · **开放 issue**: 337 · **提交数**: 18581
+- **发布数**: 313 · **已合并 PR**: 16 · **开放 PR**: 160 · **已关闭 issue**: 947 · **开放 issue**: 337 · **提交数**: 18581
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 22 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-21 | 46 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-26 | 97 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-18 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-19 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-21 | 22 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-22 | 46 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-27 | 97 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -73,7 +63,7 @@ x install folly
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/folly) 上共有 **60** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**29** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/folly) 上共有 **60** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**28** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -89,4 +79,4 @@ folly 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T07:18:13Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T08:46:18Z._

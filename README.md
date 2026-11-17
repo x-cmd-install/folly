@@ -24,16 +24,6 @@ Total: **556,224** lines of code across **2641** files in the top 5 languages.
 | CMake | 15,888 | 3,172 | 1,615 | 138 |
 | Rust | 4,851 | 524 | 1,015 | 25 |
 
-## OpenSSF Scorecard
-
-Overall score: **6.1 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **SAST** (0/10) — no SAST tool detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## Source
 
 - **Upstream**: <https://github.com/facebook/folly>
@@ -47,22 +37,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 30,561 · **Forks**: 5,884 · **Open issues**: 1,284 · **Contributors**: 982
+- **Stars**: 30,561 · **Forks**: 5,886 · **Open issues**: 1,284 · **Contributors**: 982
 
 ## Totals (cumulative)
 
-- **Releases**: 313 · **Merged PRs**: 16 · **Open PRs**: 158 · **Closed issues**: 947 · **Open issues**: 337 · **Commits**: 18581
+- **Releases**: 313 · **Merged PRs**: 16 · **Open PRs**: 160 · **Closed issues**: 947 · **Open issues**: 337 · **Commits**: 18581
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 22 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-21 | 46 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-26 | 97 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-18 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-19 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-21 | 22 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-22 | 46 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-27 | 97 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -73,7 +63,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **60** distros on [repology.org](https://repology.org/project/folly). **2** are ✅ on the latest upstream release, **29** are ⚠️ on an older version.
+Reported by **60** distros on [repology.org](https://repology.org/project/folly). **3** are ✅ on the latest upstream release, **28** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -89,4 +79,4 @@ Install metadata for folly lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:18:12Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:46:18Z._
