@@ -1,30 +1,28 @@
 - repo: xrepo
   srcname: folly
   visiblename: folly
-  version: 2024.07.15
+  version: 2024.03.25
   origversion: null
   status: legacy
   summary: An open-source C++ library developed and used at Facebook.
   licenses:
     - Apache-2.0
-- repo: xrepo
+- repo: fedora_41
+  subrepo: release
   srcname: folly
+  binnames:
+    - folly
+    - folly-devel
+    - folly-docs
   visiblename: folly
-  version: 2024.07.01
-  origversion: null
-  status: legacy
-  summary: An open-source C++ library developed and used at Facebook.
+  version: 2024.08.19.00
+  origversion: 2024.08.19.00-2.fc41
+  status: outdated
+  summary: An open-source C++ library developed and used at Facebook
   licenses:
     - Apache-2.0
-- repo: xrepo
-  srcname: folly
-  visiblename: folly
-  version: 2024.07.08
-  origversion: null
-  status: legacy
-  summary: An open-source C++ library developed and used at Facebook.
-  licenses:
-    - Apache-2.0
+  categories:
+    - Unspecified
 - repo: aosc
   srcname: runtime-common/folly
   binname: folly
@@ -92,24 +90,6 @@
   categories:
     - Unspecified
 - repo: fedora_39
-  subrepo: updates
-  srcname: folly
-  binnames:
-    - folly
-    - folly-devel
-    - folly-docs
-    - folly-debuginfo
-    - folly-debugsource
-  visiblename: folly
-  version: 2023.10.16.00
-  origversion: 2023.10.16.00-1.fc39
-  status: outdated
-  summary: An open-source C++ library developed and used at Facebook
-  licenses:
-    - Apache-2.0
-  categories:
-    - Unspecified
-- repo: fedora_39
   subrepo: release
   srcname: folly
   binnames:
@@ -127,6 +107,24 @@
     - Apache-2.0
   categories:
     - Unspecified
+- repo: fedora_39
+  subrepo: updates
+  srcname: folly
+  binnames:
+    - folly
+    - folly-devel
+    - folly-docs
+    - folly-debuginfo
+    - folly-debugsource
+  visiblename: folly
+  version: 2023.10.16.00
+  origversion: 2023.10.16.00-1.fc39
+  status: outdated
+  summary: An open-source C++ library developed and used at Facebook
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
 - repo: fedora_40
   subrepo: release
   srcname: folly
@@ -139,22 +137,6 @@
   visiblename: folly
   version: 2024.01.22.00
   origversion: 2024.01.22.00-3.fc40
-  status: outdated
-  summary: An open-source C++ library developed and used at Facebook
-  licenses:
-    - Apache-2.0
-  categories:
-    - Unspecified
-- repo: fedora_41
-  subrepo: release
-  srcname: folly
-  binnames:
-    - folly
-    - folly-devel
-    - folly-docs
-  visiblename: folly
-  version: 2024.08.19.00
-  origversion: 2024.08.19.00-2.fc41
   status: outdated
   summary: An open-source C++ library developed and used at Facebook
   licenses:
@@ -397,9 +379,9 @@
   srcname: devel/folly
   binname: folly
   visiblename: folly
-  version: 2026.07.27.00
+  version: 2026.10.26.00
   origversion: null
-  status: outdated
+  status: newest
   summary: Open-source C++ library developed and used at Facebook
   maintainers:
     - barracuda156@github
@@ -607,15 +589,6 @@
 - repo: xrepo
   srcname: folly
   visiblename: folly
-  version: 2024.03.25
-  origversion: null
-  status: legacy
-  summary: An open-source C++ library developed and used at Facebook.
-  licenses:
-    - Apache-2.0
-- repo: xrepo
-  srcname: folly
-  visiblename: folly
   version: 2024.04.01
   origversion: null
   status: legacy
@@ -644,6 +617,33 @@
   srcname: folly
   visiblename: folly
   version: 2024.06.24
+  origversion: null
+  status: legacy
+  summary: An open-source C++ library developed and used at Facebook.
+  licenses:
+    - Apache-2.0
+- repo: xrepo
+  srcname: folly
+  visiblename: folly
+  version: 2024.07.01
+  origversion: null
+  status: legacy
+  summary: An open-source C++ library developed and used at Facebook.
+  licenses:
+    - Apache-2.0
+- repo: xrepo
+  srcname: folly
+  visiblename: folly
+  version: 2024.07.08
+  origversion: null
+  status: legacy
+  summary: An open-source C++ library developed and used at Facebook.
+  licenses:
+    - Apache-2.0
+- repo: xrepo
+  srcname: folly
+  visiblename: folly
+  version: 2024.07.15
   origversion: null
   status: legacy
   summary: An open-source C++ library developed and used at Facebook.
