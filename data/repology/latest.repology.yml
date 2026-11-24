@@ -10,6 +10,15 @@
     - fallback-mnt-aosc@repology
   categories:
     - libs
+- repo: xrepo
+  srcname: folly
+  visiblename: folly
+  version: 2021.11.01
+  origversion: null
+  status: legacy
+  summary: An open-source C++ library developed and used at Facebook.
+  licenses:
+    - Apache-2.0
 - repo: aur
   srcname: folly
   binname: folly
@@ -65,24 +74,6 @@
   categories:
     - Unspecified
 - repo: fedora_39
-  subrepo: updates
-  srcname: folly
-  binnames:
-    - folly
-    - folly-devel
-    - folly-docs
-    - folly-debuginfo
-    - folly-debugsource
-  visiblename: folly
-  version: 2023.10.16.00
-  origversion: 2023.10.16.00-1.fc39
-  status: outdated
-  summary: An open-source C++ library developed and used at Facebook
-  licenses:
-    - Apache-2.0
-  categories:
-    - Unspecified
-- repo: fedora_39
   subrepo: release
   srcname: folly
   binnames:
@@ -95,6 +86,24 @@
   version: 2023.07.03.00
   origversion: 2023.07.03.00-2.fc39
   status: legacy
+  summary: An open-source C++ library developed and used at Facebook
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: updates
+  srcname: folly
+  binnames:
+    - folly
+    - folly-devel
+    - folly-docs
+    - folly-debuginfo
+    - folly-debugsource
+  visiblename: folly
+  version: 2023.10.16.00
+  origversion: 2023.10.16.00-1.fc39
+  status: outdated
   summary: An open-source C++ library developed and used at Facebook
   licenses:
     - Apache-2.0
@@ -270,6 +279,15 @@
     - Apache-2.0
   categories:
     - dev-cpp
+- repo: xrepo
+  srcname: folly
+  visiblename: folly
+  version: 2022.02.14
+  origversion: null
+  status: legacy
+  summary: An open-source C++ library developed and used at Facebook.
+  licenses:
+    - Apache-2.0
 - repo: liguros_stable
   srcname: dev-cpp/folly
   visiblename: dev-cpp/folly
@@ -480,15 +498,6 @@
     - lf-@github
   licenses:
     - Apache-2.0
-- repo: xrepo
-  srcname: folly
-  visiblename: folly
-  version: 2024.03.25
-  origversion: null
-  status: legacy
-  summary: An open-source C++ library developed and used at Facebook.
-  licenses:
-    - Apache-2.0
 - repo: vcpkg
   srcname: folly
   visiblename: folly
@@ -500,24 +509,6 @@
   srcname: folly
   visiblename: folly
   version: 2021.08.02
-  origversion: null
-  status: legacy
-  summary: An open-source C++ library developed and used at Facebook.
-  licenses:
-    - Apache-2.0
-- repo: xrepo
-  srcname: folly
-  visiblename: folly
-  version: 2021.11.01
-  origversion: null
-  status: legacy
-  summary: An open-source C++ library developed and used at Facebook.
-  licenses:
-    - Apache-2.0
-- repo: xrepo
-  srcname: folly
-  visiblename: folly
-  version: 2022.02.14
   origversion: null
   status: legacy
   summary: An open-source C++ library developed and used at Facebook.
@@ -581,6 +572,15 @@
   srcname: folly
   visiblename: folly
   version: 2024.03.18
+  origversion: null
+  status: legacy
+  summary: An open-source C++ library developed and used at Facebook.
+  licenses:
+    - Apache-2.0
+- repo: xrepo
+  srcname: folly
+  visiblename: folly
+  version: 2024.03.25
   origversion: null
   status: legacy
   summary: An open-source C++ library developed and used at Facebook.
